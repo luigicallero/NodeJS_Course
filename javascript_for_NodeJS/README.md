@@ -1,12 +1,11 @@
-# Node.js Exercises
+# JavaScript for Node.js
 
 ### Description
 
-Several NodeJS exercises to practice what was learned on codeacademy at https://www.codecademy.com/learn/emodules/emod-nodejs-introduction
+The code used in this repo is what I have learned from codeacademy at: https://www.codecademy.com/emodules/emod-nodejs-introduction/articles/javascript-for-node-js
 
 ## Prerequisites
 NodeJS installed (my version: v18.17.0)
-javascript basic knowledge - Some exercises [here](javascript_for_NodeJS/README.md)
 
 ## Examples
 
