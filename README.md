@@ -6,7 +6,7 @@ Several NodeJS exercises to practice what was learned on codeacademy at https://
 
 ## Prerequisites
 NodeJS installed (my version: v18.17.0)
-javascript basic knowledge - Some exercises [here](javascript_for_NodeJS/README.md)
+javascript basic knowledge - Some exercises [here](javascript_for_NodeJS#readme)
 
 ## Examples
 
