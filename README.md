@@ -1,8 +1,8 @@
-# NodeJS Course playbooks
+# JavaScript for Node.js
 
 ### Description
 
-The code used in this repo is what I have learned from course: https://www.codecademy.com/emodules/emod-nodejs-introduction/articles/javascript-for-node-js
+The code used in this repo is what I have learned from codeacademy at: https://www.codecademy.com/emodules/emod-nodejs-introduction/articles/javascript-for-node-js
 
 ## Prerequisites
 NodeJS installed (my version: v18.17.0)
