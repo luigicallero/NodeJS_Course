@@ -10,6 +10,7 @@ NodeJS installed (my version: v18.17.0)
 ## Examples
 
 ### Running the Playbooks using NodeJS
+Make sure you execute in the path where the code stands
 ```
 node 1-arrow_function.js
 ```
