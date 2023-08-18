@@ -76,6 +76,10 @@ With the os module saved to the os variable, you can call methods like:
 ```
 node 1-arrow_function.js
 ```
+## Cheatsheet
+
+https://www.codecademy.com/learn/emodules/emod-nodejs-introduction/cheatsheet
+
 
 ## License
 
